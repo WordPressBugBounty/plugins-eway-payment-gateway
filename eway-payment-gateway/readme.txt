@@ -6,7 +6,7 @@ Author URI: https://shop.webaware.com.au/
 Donate link: https://shop.webaware.com.au/donations/?donation_for=Eway+Payment+Gateway
 Tags: eway, woocommerce, event espresso, events manager, awpcp
 Requires at least: 5.1
-Tested up to: 6.5
+Tested up to: 6.7
 Requires PHP: 7.4
 Stable tag: 5.3.0
 License: GPLv2 or later
